@@ -399,7 +399,8 @@ nav {
 
 /*work*/
 .section-personal-projects {
-	background-color: var(--colour-dark);
+/* 	background-color: var(--colour-dark); */
+	background-color: black;
 	color: var(--colour-light);
 	text-align: center;
 }
