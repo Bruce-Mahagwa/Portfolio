@@ -331,6 +331,7 @@ nav {
 .section-service {
 	max-width: 500px;
 	margin: 0 auto;
+	text-align: left;
 }
 .section-services-grid {
 	margin-bottom: 4em;
@@ -350,7 +351,7 @@ nav {
 	}
 	.section-service + .section-service {
 		margin-top: 0;
-		margin-left: 2em;
+/* 		margin-left: 2em; */
 	}
 
 }
